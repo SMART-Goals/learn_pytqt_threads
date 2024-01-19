@@ -1,0 +1,8 @@
+name: pyqt-learn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pyqt=5       # PyQt5 package
+  - qtpy         # QtPy package

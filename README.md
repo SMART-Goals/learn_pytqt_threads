@@ -1,2 +1,6 @@
-# learn_pytqt_threads
-Use PyQt's QThread to Prevent Freezing GUIs
+# Use PyQt's QThread to Prevent Freezing GUIs
+
+**Source:** https://realpython.com/python-pyqt-qthread/
+
+
+
